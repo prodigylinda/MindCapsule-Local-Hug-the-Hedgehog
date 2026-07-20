@@ -14,12 +14,4 @@ By analyzing users' text input, the system identifies possible emotional states 
 - Privacy-focused local deployment
 
 ## Technical Architecture：
-User Input
-↓
-Text Processing
-↓
-Emotion Recognition
-↓
-Psychological Support Generation
-↓
-Personalized Feedback
+User Input  -  Text Processing  -  Emotion Recognition  -  Psychological Support Generation  -  Personalized Feedback
