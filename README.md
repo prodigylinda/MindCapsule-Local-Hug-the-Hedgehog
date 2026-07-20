@@ -15,3 +15,5 @@ By analyzing users' text input, the system identifies possible emotional states 
 
 ## Technical Architecture：
 User Input  -  Text Processing  -  Emotion Recognition  -  Psychological Support Generation  -  Personalized Feedback
+
+[Bilibili Demo Video](https://www.bilibili.com/video/BV1QANE6DEam/)
