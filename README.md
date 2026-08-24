@@ -21,5 +21,5 @@ User Input  -  Text Processing  -  Emotion Recognition  -  Psychological Support
 - [Development Process](docs/MindCapsule_Development_Process.pdf)
 
 ## Demo Video：
-A demonstration video of the project is available here:
-[Bilibili Demo Video](https://www.bilibili.com/video/BV1QANE6DEam/)
+A demonstration video of the project is available here：
+-【video show]([https://youtu.be/PUI62vXR5Xo](https://www.youtube.com/watch?v=PUI62vXR5Xo))
