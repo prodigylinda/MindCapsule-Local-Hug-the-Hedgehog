@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 from DATa import database 
+
 class MoodHD:
     def __init__(self, root):
         self.root = root
@@ -33,8 +34,7 @@ class MoodHD:
         self.input_field.bind('<FocusIn>', self.clear_placeholder)#清初始字，让人可以打
         self.input_field.bind('<FocusOut>', self.restore_placeholder)#取消正在打字的提示
         self.input_field.pack(pady=10, padx=20, ipady=5)#add
-
-
+        
         self.output_area = tk.Text(
             self.root, 
             height=6, #留空间，万一子比较多
