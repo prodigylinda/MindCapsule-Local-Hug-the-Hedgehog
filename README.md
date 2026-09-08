@@ -10,7 +10,6 @@ By analyzing users' text input, the system identifies possible emotional states 
 
 
 ## Key Features：
-
 - Text-based emotional interaction
 - NLP-based emotion recognition
 - Personalized psychological feedback
