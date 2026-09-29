@@ -8,7 +8,6 @@ An AI-assisted emotional support system designed for adolescents experiencing ac
 The project focuses on a common problem among high school students: many experience academic anxiety but hesitate to express their emotions because of social pressure and emotional stigma.
 By analyzing users' text input, the system identifies possible emotional states and provides personalized psychological guidance to help users understand and regulate their emotions.
 
-
 ## Key Features：
 - Text-based emotional interaction
 - NLP-based emotion recognition
